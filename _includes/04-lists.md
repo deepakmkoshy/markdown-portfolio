@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# Best Biriyani
+* Dutch Farm Bakery
+* Paragon
+* Zam Zam
+* LF Eats
+* Yummyspot
+  * Maharaja Biriyani
